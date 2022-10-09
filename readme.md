@@ -9,15 +9,21 @@ This repository shall serve as a personal and public journal and also source of 
 More about the concept of *public learning* can be found here: [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
 
-*3 TILs and counting...* 
+*4 TILs and counting...* 
 
 ### Categories
-* [C#](#c#)
+* [.NET](#dotnet)
 * [Life Long Learning](#life-long-learning)
 
 
 ---
 
+### DOTNET
+* [The Null-Conditional Operator](dot.net/c-sharp/null-conditional-operator.md)
+* [The Type-Declaration Pattern](dot.net/c-sharp/is-declaration-pattern.md)
+
 ### Life Long Learning
 * [Knowledge Debt](life-long-learning/knowledge-debt.md)
 * [Investment Mindset](life-long-learning/investment-mindset.md)
+
+
