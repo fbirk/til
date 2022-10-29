@@ -12,6 +12,7 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 *5 TILs and counting...* 
 
 ## Categories
+* [Git](#git)
 * [.NET](#dotnet)
     * [C#](#c)
     * [WPF](#wpf)
@@ -19,6 +20,9 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 
 
 ---
+
+## Git
+* [About stashing and staging](git/about-stashing-and-staging.md)
 
 ## DOTNET
 ### C#
