@@ -11,6 +11,7 @@ if (greeting is string message)
 ```
   
 This pattern can also be used to check for null references like the following:
+
 ```c#
 if (input is not null)
 {

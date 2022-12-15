@@ -1,6 +1,7 @@
 # About stashing and staging
 
 A usual workflow with Git is *working on a file* -> *add the edited file* -> *commit changes* -> *push to remote*. In terms of git commands this would look as follows:
+
 ```
 touch newfile.txt
 git add newfile.txt
@@ -21,10 +22,9 @@ git stash pop
 
 While `git stash pop` applies the stashed changes to the working area and removes it from the stash, it is also possible to just `git stash apply` it and later `git stash drop` it.
 
-With `git stash save -u "Some name"` all changed files will be stashed wether staged (tracked) or not (un-tracked).
+With `git stash save -u "Some name"` all changed files will be stashed whether staged (tracked) or not (un-tracked).
 
 ![example-image](stash_example.png)
-
 
 -------------------------------------------
 *[back to the main page](../readme.md)*
