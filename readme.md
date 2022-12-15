@@ -9,16 +9,16 @@ This repository shall serve as a personal and public journal and also source of 
 
 More about the concept of *public learning* can be found here: [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
-*5 TILs and counting...*
+*8 TILs and counting...*
 
 ## Categories
 
 * [TIL](#til)
-  * [Categories](#categories)
   * [Git](#git)
   * [DOTNET](#dotnet)
     * [C#](#c)
     * [WPF](#wpf)
+  * [Eclipse RCP](#eclipse-rcp)
   * [Life Long Learning](#life-long-learning)
 
 ---
@@ -37,6 +37,11 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 ### WPF
 
 * [Interaction Trigger](dot.net/wpf/interaction-triggers.md)
+
+## Eclipse RCP
+
+* [Document Resource](eclipse/document-resource.md)
+* [Marker Generation](eclipse/marker-generation)
 
 ## Life Long Learning
 
