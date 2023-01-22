@@ -13,19 +13,17 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 
 ## Categories
 
-* [TIL](#til)
-  * [Git](#git)
-  * [DOTNET](#dotnet)
-    * [C#](#c)
-    * [WPF](#wpf)
-  * [Eclipse RCP](#eclipse-rcp)
-  * [Life Long Learning](#life-long-learning)
+- [TIL](#til)
+  - [Categories](#categories)
+  - [DOTNET](#dotnet)
+    - [C#](#c)
+    - [WPF](#wpf)
+  - [Eclipse RCP](#eclipse-rcp)
+  - [Git](#git)
+  - [LaTeX](#latex)
+  - [Life Long Learning](#life-long-learning)
 
 ---
-
-## Git
-
-* [About stashing and staging](git/about-stashing-and-staging.md)
 
 ## DOTNET
 
@@ -42,6 +40,14 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 
 * [Document Resource](eclipse/document-resource.md)
 * [Marker Generation](eclipse/marker-generation)
+
+## Git
+
+* [About stashing and staging](git/about-stashing-and-staging.md)
+
+## LaTeX
+
+* [Survey Questionnaires](latex/survey-questionnaires.md)
 
 ## Life Long Learning
 
