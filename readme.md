@@ -9,7 +9,7 @@ This repository shall serve as a personal and public journal and also source of 
 
 More about the concept of *public learning* can be found here: [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
-*9 TILs and counting...*
+*10 TILs and counting...*
 
 ## Categories
 
@@ -23,6 +23,7 @@ More about the concept of *public learning* can be found here: [How I Built a Le
   - [LaTeX](#latex)
   - [Life Long Learning](#life-long-learning)
   - [SQL](#sql)
+  - [Windows](#windows)
 
 ---
 
@@ -58,3 +59,7 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 ## SQL
 
 * [SSMS User Roles](sql/ssms-user-roles.md)
+
+## Windows
+
+* [Find process using file](windows/find-process-using-file.md)
