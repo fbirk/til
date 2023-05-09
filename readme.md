@@ -9,7 +9,7 @@ This repository shall serve as a personal and public journal and also source of 
 
 More about the concept of *public learning* can be found here: [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
-*8 TILs and counting...*
+*9 TILs and counting...*
 
 ## Categories
 
@@ -22,6 +22,7 @@ More about the concept of *public learning* can be found here: [How I Built a Le
   - [Git](#git)
   - [LaTeX](#latex)
   - [Life Long Learning](#life-long-learning)
+  - [SQL](#sql)
 
 ---
 
@@ -53,3 +54,7 @@ More about the concept of *public learning* can be found here: [How I Built a Le
 
 * [Knowledge Debt](life-long-learning/knowledge-debt.md)
 * [Investment Mindset](life-long-learning/investment-mindset.md)
+
+## SQL
+
+* [SSMS User Roles](sql/ssms-user-roles.md)
