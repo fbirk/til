@@ -4,4 +4,4 @@
 2. Go to CPU
 3. Enter the file name in the search field
 
-![ResmonSCR](Resmon_SCR.png)
+![ResmonSCR](Resmon_SCR.PNG)
